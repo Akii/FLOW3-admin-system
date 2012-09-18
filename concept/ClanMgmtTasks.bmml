@@ -96,6 +96,16 @@
             <icon>PencilIcon%7Cxsmall</icon>
           </controlProperties>
         </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Icon" x="722" y="27" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="7" locked="false" isInGroup="19">
+          <controlProperties>
+            <icon>EyeIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="722" y="57" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="8" locked="false" isInGroup="19">
+          <controlProperties>
+            <icon>EyeIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
       </groupChildrenDescriptors>
     </control>
     <control controlID="20" controlTypeID="com.balsamiq.mockups::SubTitle" x="527" y="284" w="-1" h="-1" measuredW="92" measuredH="33" zOrder="16" locked="false" isInGroup="-1">
