@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1854" measuredH="1122" mockupW="1722" mockupH="1109">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1854" measuredH="1131" mockupW="1722" mockupH="1118">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::StickyNote" x="1438" y="422" w="184" h="162" measuredW="109" measuredH="123" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -13,7 +13,7 @@
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::StickyNote" x="140" y="58" w="173" h="137" measuredW="109" measuredH="123" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Login%20Page%0A-%20just%20I%20don%27t%20forget%20%3B%29</text>
+        <text>Login%20Page%0A-%20just%20so%20that%20I%20don%27t%20forget%20%3B%29</text>
       </controlProperties>
     </control>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::StickyNote" x="1438" y="603" w="184" h="161" measuredW="109" measuredH="123" zOrder="3" locked="false" isInGroup="-1">
@@ -38,9 +38,9 @@
         <text>User%20Management%0A-%20admins%20/%20rights%0A-%20flagged%20players%20etc%0A-%20logs</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::StickyNote" x="352" y="249" w="171" h="162" measuredW="109" measuredH="123" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::StickyNote" x="352" y="422" w="171" h="175" measuredW="109" measuredH="123" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Clans%2C%20Clanpage%0A%20%0A-%20banners%0A-%20list%20members%0A-%20list%20servers</text>
+        <text>Clans%2C%20Clanpage%0A-%20-banners-%0A-%20-list%20members-%0A-%20-list%20servers-%0A-%20browse%20clans%2C%20filter%20by%20games%0A-%20detail%20page%20is%20default</text>
       </controlProperties>
     </control>
     <control controlID="8" controlTypeID="com.balsamiq.mockups::StickyNote" x="562" y="249" w="171" h="162" measuredW="109" measuredH="123" zOrder="8" locked="false" isInGroup="-1">
@@ -59,9 +59,9 @@
         <text>Bans%0A-%20match%20by%20name%2C%20ip/host%2C%20uuid%2C%20and%20so%20on%0A-%20groups%0A-%20watchlist%0A-%20notification%20center%20support%0A-%20comments</text>
       </controlProperties>
     </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::StickyNote" x="140" y="955" w="173" h="167" measuredW="109" measuredH="123" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::StickyNote" x="140" y="955" w="173" h="176" measuredW="109" measuredH="123" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>User%20Control%20Panel%0A-%20settings%0A-%20language%20switch%0A-%20add%20game%20+%20information%0A-%20add%20social%20stuff%0A-%20avatar</text>
+        <text>User%20Control%20Panel%0A-%20settings%0A-%20language%20switch%0A-%20add%20game%20+%20information%0A-%20add%20social%20stuff%0A-%20avatar%0A-%20set%20primary%20clan</text>
       </controlProperties>
     </control>
     <control controlID="13" controlTypeID="com.balsamiq.mockups::VCurly" x="1200" y="13" w="180" h="96" measuredW="180" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
@@ -97,7 +97,7 @@
         <text>Player%20Tracing</text>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::StickyNote" x="352" y="421" w="171" h="164" measuredW="109" measuredH="123" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::StickyNote" x="352" y="246" w="171" h="164" measuredW="109" measuredH="123" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Clan%20Detail%20Page%0A-%20news%20%28public%2C%20private%29%0A-%20subscribe%0A-%20social%20links%20%28twitter%2C%20fb%2C%20irc%2C%20anything%29</text>
       </controlProperties>
@@ -140,7 +140,7 @@
     <control controlID="31" controlTypeID="com.balsamiq.mockups::StickyNote" x="1003" y="421" w="171" h="164" measuredW="109" measuredH="123" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
         <color>7317724</color>
-        <text>Edit%20Clan%20Page%0A-%20add%20news%0A-%20manage%20content%0A-%20set%20banner</text>
+        <text>Edit%20Clan%20Page%0A-%20add%20news%0A-%20manage%20content%0A-%20set%20banner%0A-%20set%20clan%20icon</text>
       </controlProperties>
     </control>
     <control controlID="32" controlTypeID="com.balsamiq.mockups::StickyNote" x="1219" y="247" w="184" h="162" measuredW="109" measuredH="123" zOrder="29" locked="false" isInGroup="-1">
