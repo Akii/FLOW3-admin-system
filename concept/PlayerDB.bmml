@@ -61,9 +61,9 @@
             <text>%2887.23x.1x0.5x%3A7x77%29</text>
           </controlProperties>
         </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="60" w="450" h="240" measuredW="440" measuredH="83" zOrder="4" locked="false" isInGroup="26">
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="60" w="450" h="240" measuredW="451" measuredH="83" zOrder="4" locked="false" isInGroup="26">
           <controlProperties>
-            <text>Nr%20%5Ev%2C%20Player%20Name%20%5Ev%2C%20IP%20%5Ev%2C%20GUID%20%5Ev%2C%20Actions%0A1%2C%20God-T-Bag%2C%20123.123.123.132%2C%2023471293443242%2C%20%0A2%2C%20Eeeeeek%2C%2023.32.23.23%2C%20312313312312%2C</text>
+            <text>UID%20%5Ev%2C%20Player%20Name%20%5Ev%2C%20IP%20%5Ev%2C%20GUID%20%5Ev%2C%20Actions%0A2342%2C%20God-T-Bag%2C%20123.123.123.132%2C%2023471293443242%2C%20%0A12213%2C%20Eeeeeek%2C%2023.32.23.23%2C%20312313312312%2C</text>
           </controlProperties>
         </control>
         <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="5" y="37" w="-1" h="-1" measuredW="156" measuredH="21" zOrder="5" locked="false" isInGroup="26">
@@ -97,6 +97,52 @@
       <controlProperties>
         <text>You%20could%20chose%20which%20servers%20to%20display%20here%20and%20in%20which%20sorting.%0A%28only%20applies%20to%20%27public%27%20servers%20and%20your%20own%20ofc%29</text>
       </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="__group__" x="423" y="568" w="910" h="300" measuredW="910" measuredH="300" zOrder="16" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="910" h="300" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="28"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="29" w="910" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="28"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="14" y="6" w="384" h="21" measuredW="190" measuredH="21" zOrder="2" locked="false" isInGroup="28">
+          <controlProperties>
+            <text>%5B%20s%F8s%20%5D%20Shad%F8ws%20%F8F%20Silence%20LGI</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="429" y="6" w="265" h="21" measuredW="131" measuredH="21" zOrder="3" locked="false" isInGroup="28">
+          <controlProperties>
+            <text>%2887.23x.1x0.5x%3A7x77%29</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="60" w="910" h="240" measuredW="451" measuredH="83" zOrder="4" locked="false" isInGroup="28">
+          <controlProperties>
+            <text>UID%20%5Ev%2C%20Player%20Name%20%5Ev%2C%20IP%20%5Ev%2C%20GUID%20%5Ev%2C%20Actions%0A2342%2C%20God-T-Bag%2C%20123.123.123.132%2C%2023471293443242%2C%20%0A12213%2C%20Eeeeeek%2C%2023.32.23.23%2C%20312313312312%2C</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="10" y="37" w="315" h="21" measuredW="156" measuredH="21" zOrder="5" locked="false" isInGroup="28">
+          <controlProperties>
+            <text>Current%20Map%3A%20Blah%20Map%200.1</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="871" y="83" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="28">
+          <controlProperties>
+            <icon>ForbiddenIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="871" y="114" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="28">
+          <controlProperties>
+            <icon>ForbiddenIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Icon" x="839" y="114" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="8" locked="false" isInGroup="28">
+          <controlProperties>
+            <icon>EyeIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="839" y="83" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="9" locked="false" isInGroup="28">
+          <controlProperties>
+            <icon>EyeIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
     </control>
   </controls>
 </mockup>
