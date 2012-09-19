@@ -1,0 +1,102 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1348" measuredH="1036" mockupW="1177" mockupH="1025">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="408" y="11" w="940" h="1025" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Admin%20System%20%3A%3A%20PlayerDB%0Ahttp%3A//utan.akii.de/playerdb</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="408" y="116" w="940" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::ComboBox" x="1246" y="91" w="-1" h="-1" measuredW="91" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Username</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::VRule" x="1231" y="84" w="-1" h="36" measuredW="10" measuredH="100" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="1200" y="90" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>AlertIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::VRule" x="1185" y="84" w="-1" h="36" measuredW="10" measuredH="100" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="1155" y="90" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>BulletsIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="1122" y="90" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>Number2Icon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::VRule" x="1107" y="84" w="-1" h="36" measuredW="10" measuredH="100" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::SearchBox" x="981" y="90" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>instant%20search</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::MenuBar" x="415" y="88" w="-1" h="-1" measuredW="398" measuredH="29" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>2</selectedIndex>
+        <text>My%20Page%2C%20Clans%2C%20Player%20DB%2C%20Bans%2C%20Clan%20Management</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Canvas" x="883" y="245" w="450" h="300" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::HRule" x="883" y="274" w="450" h="-1" measuredW="100" measuredH="10" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Paragraph" x="423" y="134" w="-1" h="-1" measuredW="200" measuredH="80" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Some%20text%20would%20probably%20go%20here%2C%20along%20with%20a%20search%20box.</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="__group__" x="423" y="245" w="450" h="300" measuredW="450" measuredH="300" zOrder="13" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="450" h="300" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="26"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="29" w="450" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="26"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="7" y="6" w="-1" h="-1" measuredW="190" measuredH="21" zOrder="2" locked="false" isInGroup="26">
+          <controlProperties>
+            <text>%5B%20s%F8s%20%5D%20Shad%F8ws%20%F8F%20Silence%20LGI</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="212" y="6" w="-1" h="-1" measuredW="131" measuredH="21" zOrder="3" locked="false" isInGroup="26">
+          <controlProperties>
+            <text>%2887.23x.1x0.5x%3A7x77%29</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="60" w="450" h="240" measuredW="440" measuredH="83" zOrder="4" locked="false" isInGroup="26">
+          <controlProperties>
+            <text>Nr%20%5Ev%2C%20Player%20Name%20%5Ev%2C%20IP%20%5Ev%2C%20GUID%20%5Ev%2C%20Actions%0A1%2C%20God-T-Bag%2C%20123.123.123.132%2C%2023471293443242%2C%20%0A2%2C%20Eeeeeek%2C%2023.32.23.23%2C%20312313312312%2C</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="5" y="37" w="-1" h="-1" measuredW="156" measuredH="21" zOrder="5" locked="false" isInGroup="26">
+          <controlProperties>
+            <text>Current%20Map%3A%20Blah%20Map%200.1</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="418" y="83" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="26">
+          <controlProperties>
+            <icon>ForbiddenIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="418" y="114" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="26">
+          <controlProperties>
+            <icon>ForbiddenIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Icon" x="390" y="114" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="8" locked="false" isInGroup="26">
+          <controlProperties>
+            <icon>EyeIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="390" y="83" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="9" locked="false" isInGroup="26">
+          <controlProperties>
+            <icon>EyeIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::StickyNote" x="171" y="38" w="182" h="148" measuredW="109" measuredH="123" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>You%20could%20chose%20which%20servers%20to%20display%20here%20and%20in%20which%20sorting.%0A%28only%20applies%20to%20%27public%27%20servers%20and%20your%20own%20ofc%29</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
