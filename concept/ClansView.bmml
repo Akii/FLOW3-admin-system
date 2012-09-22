@@ -64,11 +64,11 @@
         <text>Is%20it%20ok%20to%20have%20a%20banner%20_that_%20big%3F%20Idk%20if%20all%20clans%20have%20that.</text>
       </controlProperties>
     </control>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::TabBar" x="423" y="306" w="910" h="679" measuredW="346" measuredH="100" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::TabBar" x="423" y="306" w="910" h="679" measuredW="385" measuredH="100" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <selectedIndex>0</selectedIndex>
         <tabVPosition>top</tabVPosition>
-        <text>Clan%20Info%2C%20Activity%2C%20News%2C%20Members%2C%20Servers</text>
+        <text>Clan%20Info%2C%20Activity%2C%20News%2C%20Members%2C%20Servers%2C%20Tasks</text>
       </controlProperties>
     </control>
     <control controlID="24" controlTypeID="__group__" x="1162" y="297" w="169" h="28" measuredW="169" measuredH="28" zOrder="15" locked="false" isInGroup="-1">
@@ -349,6 +349,20 @@
     <control controlID="76" controlTypeID="com.balsamiq.mockups::HRule" x="455" y="737" w="624" h="-1" measuredW="100" measuredH="10" zOrder="35" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Arrow" x="330" y="321" w="78" h="32" measuredW="150" measuredH="100" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Paragraph" x="206" y="356" w="200" h="123" measuredW="200" measuredH="80" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>What%20you%20see%20here%20depends%20on%20several%20things%0A-%20Are%20there%20items%20at%20all%3F%20For%20example%3A%20No%20servers%2C%20no%20servers%20tab%0A-%20Has%20the%20user%20the%20right%20to%20see%20it%20%28Tasks%29</text>
       </controlProperties>
     </control>
   </controls>
