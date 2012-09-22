@@ -78,56 +78,56 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="32" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="415" y="126" w="-1" h="-1" measuredW="155" measuredH="24" zOrder="19" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>You%20are%20here%3A%2CMy%20Page</text>
-      </controlProperties>
-    </control>
-    <control controlID="33" controlTypeID="com.balsamiq.mockups::StickyNote" x="572" y="211" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::StickyNote" x="572" y="211" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Clan%20News%20Big</text>
       </controlProperties>
     </control>
-    <control controlID="34" controlTypeID="com.balsamiq.mockups::StickyNote" x="1055" y="266" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::StickyNote" x="1055" y="266" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Feed</text>
       </controlProperties>
     </control>
-    <control controlID="35" controlTypeID="com.balsamiq.mockups::StickyNote" x="489" y="510" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::StickyNote" x="489" y="510" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Server%20List%0Asmall</text>
       </controlProperties>
     </control>
-    <control controlID="36" controlTypeID="com.balsamiq.mockups::StickyNote" x="824" y="510" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="23" locked="false" isInGroup="-1">
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::StickyNote" x="824" y="510" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
         <text>List%20Bans%0A-%20options%0A-%20list%20own%20bans</text>
       </controlProperties>
     </control>
-    <control controlID="37" controlTypeID="com.balsamiq.mockups::StickyNote" x="1132" y="493" w="160" h="156" measuredW="109" measuredH="123" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::StickyNote" x="1132" y="493" w="160" h="156" measuredW="109" measuredH="123" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Items%20can%20be%20chosen%20by%20the%20user%2C%0Aeach%20item%20has%20certain%20settings</text>
       </controlProperties>
     </control>
-    <control controlID="38" controlTypeID="com.balsamiq.mockups::VCurly" x="1375" y="442" w="180" h="284" measuredW="180" measuredH="140" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::VCurly" x="1375" y="442" w="180" h="284" measuredW="180" measuredH="140" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <text>One%20Row%20of%20Items%2C%0Aseveral%20row%20styles%20to%20choose%20from</text>
       </controlProperties>
     </control>
-    <control controlID="39" controlTypeID="com.balsamiq.mockups::HCurly" x="128" y="11" w="-1" h="-1" measuredW="200" measuredH="80" zOrder="26" locked="false" isInGroup="-1">
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::HCurly" x="128" y="11" w="-1" h="-1" measuredW="200" measuredH="80" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>bottom</direction>
         <text>Ideas%20for%20Plugins%20go%20here%3A</text>
       </controlProperties>
     </control>
-    <control controlID="40" controlTypeID="com.balsamiq.mockups::StickyNote" x="122" y="116" w="212" h="124" measuredW="109" measuredH="123" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::StickyNote" x="122" y="116" w="212" h="124" measuredW="109" measuredH="123" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Tagged%20Players%20Feed%0A%3E%20Track%20your%20tagged%20players%2C%20live%3F%0A%3E%20Track%20new%20Tags</text>
       </controlProperties>
     </control>
-    <control controlID="41" controlTypeID="com.balsamiq.mockups::MenuBar" x="415" y="88" w="-1" h="-1" measuredW="398" measuredH="29" zOrder="28" locked="false" isInGroup="-1">
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::MenuBar" x="415" y="88" w="-1" h="-1" measuredW="398" measuredH="29" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <selectedIndex>0</selectedIndex>
         <text>My%20Page%2C%20Clans%2C%20Player%20DB%2C%20Bans%2C%20Clan%20Management</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="415" y="126" w="-1" h="-1" measuredW="155" measuredH="24" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>You%20are%20here%3A%2CMy%20Page</text>
       </controlProperties>
     </control>
   </controls>
