@@ -1,0 +1,276 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1348" measuredH="1036" mockupW="1224" mockupH="1025">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="408" y="11" w="940" h="1025" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Admin%20System%20%3A%3A%20Yourclan%0Ahttp%3A//utan.akii.de/yourclan</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="408" y="116" w="940" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::ComboBox" x="1246" y="91" w="-1" h="-1" measuredW="91" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Username</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::VRule" x="1231" y="84" w="-1" h="36" measuredW="10" measuredH="100" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="1200" y="90" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>AlertIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::VRule" x="1185" y="84" w="-1" h="36" measuredW="10" measuredH="100" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="1155" y="90" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>BulletsIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="1122" y="90" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>Number2Icon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::VRule" x="1107" y="84" w="-1" h="36" measuredW="10" measuredH="100" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::SearchBox" x="981" y="90" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>instant%20search</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::MenuBar" x="415" y="88" w="-1" h="-1" measuredW="398" measuredH="29" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>My%20Page%2C%20Clans%2C%20Player%20DB%2C%20Bans%2C%20Clan%20Management</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="415" y="126" w="-1" h="-1" measuredW="213" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>You%20are%20here%3A%2CYour%20Clan%2C%20News</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Image" x="423" y="171" w="910" h="122" measuredW="77" measuredH="79" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TabBar" x="423" y="306" w="910" h="679" measuredW="385" measuredH="100" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>2</selectedIndex>
+        <tabVPosition>top</tabVPosition>
+        <text>Clan%20Info%2C%20Activity%2C%20News%2C%20Members%2C%20Servers%2C%20Tasks</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::SubTitle" x="795" y="184" w="-1" h="-1" measuredW="166" measuredH="33" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>YC%20-%20Your%20Clan</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="__group__" x="1162" y="297" w="169" h="28" measuredW="169" measuredH="28" zOrder="15" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Switch" x="101" y="0" w="-1" h="-1" measuredW="68" measuredH="28" zOrder="0" locked="false" isInGroup="15">
+          <controlProperties>
+            <onOffState>on</onOffState>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="4" w="-1" h="-1" measuredW="90" measuredH="21" zOrder="1" locked="false" isInGroup="15">
+          <controlProperties>
+            <text>Receive%20Feed</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::IconLabel" x="1253" y="141" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>PencilIcon%7Cxsmall</icon>
+        <labelPosition>left</labelPosition>
+        <text>Edit%20Page</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="__group__" x="443" y="340" w="649" h="355" measuredW="649" measuredH="355" zOrder="17" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="70" h="70" measuredW="70" measuredH="70" zOrder="0" locked="false" isInGroup="17">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="70" h="70" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <shape>rectangle</shape>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="18" w="70" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="0"/>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="21" y="0" w="-1" h="-1" measuredW="29" measuredH="21" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Jan.</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="6" y="26" w="-1" h="-1" measuredW="59" measuredH="37" zOrder="3" locked="false" isInGroup="0">
+              <controlProperties>
+                <size>28</size>
+                <text>14th</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="78" y="46" w="-1" h="-1" measuredW="224" measuredH="21" zOrder="1" locked="false" isInGroup="17">
+          <controlProperties>
+            <text>Posted%20by%20%5Byc%3E%3Emember%5D%20in%20%5BClan%20News%5D</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="317" y="44" w="-1" h="-1" measuredW="46" measuredH="24" zOrder="2" locked="false" isInGroup="17">
+          <controlProperties>
+            <icon>CommentsIcon%7Csmall</icon>
+            <labelPosition>left</labelPosition>
+            <text>12</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="321" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="3" locked="false" isInGroup="17">
+          <controlProperties>
+            <icon>PencilIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::SubTitle" x="78" y="3" w="-1" h="-1" measuredW="243" measuredH="33" zOrder="4" locked="false" isInGroup="17">
+          <controlProperties>
+            <text>Title%20of%20the%20News%20Item</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" x="219" y="78" w="430" h="277" measuredW="200" measuredH="80" zOrder="5" locked="false" isInGroup="17">
+          <controlProperties>
+            <text>Ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident.%20Lorem%20ipsum%20dolor%20sit%20amet%2C%20consetetur%20sadipscing%20elitr%2C%20sed%20diam%20nonumy%20eirmod%20tempor%20invidunt%20ut%20labore%20et%20dolore%20magna%20aliquyam%20erat%2C%20sed%20diam%20voluptua.%20At%20vero%20eos%20et%20accusam%20et%20justo%20duo%20dolores%20et%20ea%20rebum.%20Stet%20clita%20kasd%20gubergren%2C%20no%20sea%20takimata%20sanctus%20est%20Lorem%20ipsum%20dolor%20sit%20amet.%20Lorem%20ipsum%20dolor%20sit%20amet%2C%20consetetur%20sadipscing%20elitr%2C%20sed%20diam%20nonumy%20eirmod%20tempor%20invidunt%20ut%20labore%20et%20dolore%20magna%20aliquyam%20erat%2C%20sed%20diam%20voluptua.%20At%20vero%20eos%20et%20accusam%20et%20justo%20duo%20dolores%20et%20ea%20rebum.%20Stet%20clita%20kasd%20gubergren%2C%20no%20sea%20takimata%20sanctus%20est%20Lorem%20ipsum%20dolor%20sit%20amet.</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="0" y="78" w="204" h="205" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="17"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="18" controlTypeID="__group__" x="1107" y="340" w="214" h="31" measuredW="214" measuredH="31" zOrder="18" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="21" w="214" h="-1" measuredW="100" measuredH="10" zOrder="0" locked="false" isInGroup="18"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="71" measuredH="21" zOrder="1" locked="false" isInGroup="18">
+          <controlProperties>
+            <text>Categories</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::List" x="1107" y="371" w="214" h="142" measuredW="100" measuredH="126" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <alternateRowColor>15134199</alternateRowColor>
+        <hasHeader>false</hasHeader>
+        <selectedIndex>-1</selectedIndex>
+        <text>Clan%20News%20%282%29%0APrivate%20Stuff%20%281%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="__group__" x="443" y="664" w="649" h="148" measuredW="649" measuredH="148" zOrder="20" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="70" h="70" measuredW="70" measuredH="70" zOrder="0" locked="false" isInGroup="20">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="70" h="70" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <shape>rectangle</shape>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="18" w="70" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="0"/>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="21" y="0" w="-1" h="-1" measuredW="29" measuredH="21" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Jan.</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="13" y="28" w="-1" h="-1" measuredW="45" measuredH="37" zOrder="3" locked="false" isInGroup="0">
+              <controlProperties>
+                <size>28</size>
+                <text>9th</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="78" y="46" w="-1" h="-1" measuredW="224" measuredH="21" zOrder="1" locked="false" isInGroup="20">
+          <controlProperties>
+            <text>Posted%20by%20%5Byc%3E%3Emember%5D%20in%20%5BClan%20News%5D</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="317" y="44" w="-1" h="-1" measuredW="40" measuredH="24" zOrder="2" locked="false" isInGroup="20">
+          <controlProperties>
+            <icon>CommentsIcon%7Csmall</icon>
+            <labelPosition>left</labelPosition>
+            <text>5</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="263" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="3" locked="false" isInGroup="20">
+          <controlProperties>
+            <icon>PencilIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::SubTitle" x="78" y="3" w="-1" h="-1" measuredW="185" measuredH="33" zOrder="4" locked="false" isInGroup="20">
+          <controlProperties>
+            <text>Older%20News%20Item</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="78" w="649" h="70" measuredW="200" measuredH="80" zOrder="5" locked="false" isInGroup="20">
+          <controlProperties>
+            <text>Ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident...%20%5Bmore%5D</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="21" controlTypeID="__group__" x="443" y="827" w="649" h="148" measuredW="649" measuredH="148" zOrder="21" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="70" h="70" measuredW="70" measuredH="70" zOrder="0" locked="false" isInGroup="21">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="70" h="70" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <shape>rectangle</shape>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="18" w="70" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="0"/>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="21" y="0" w="-1" h="-1" measuredW="29" measuredH="21" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Jan.</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="13" y="28" w="-1" h="-1" measuredW="45" measuredH="37" zOrder="3" locked="false" isInGroup="0">
+              <controlProperties>
+                <size>28</size>
+                <text>9th</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="78" y="46" w="-1" h="-1" measuredW="224" measuredH="21" zOrder="1" locked="false" isInGroup="21">
+          <controlProperties>
+            <text>Posted%20by%20%5Byc%3E%3Emember%5D%20in%20%5BClan%20News%5D</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="317" y="44" w="-1" h="-1" measuredW="40" measuredH="24" zOrder="2" locked="false" isInGroup="21">
+          <controlProperties>
+            <icon>CommentsIcon%7Csmall</icon>
+            <labelPosition>left</labelPosition>
+            <text>5</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="263" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="3" locked="false" isInGroup="21">
+          <controlProperties>
+            <icon>PencilIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::SubTitle" x="78" y="3" w="-1" h="-1" measuredW="185" measuredH="33" zOrder="4" locked="false" isInGroup="21">
+          <controlProperties>
+            <text>Older%20News%20Item</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="78" w="649" h="70" measuredW="200" measuredH="80" zOrder="5" locked="false" isInGroup="21">
+          <controlProperties>
+            <text>Ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident...%20%5Bmore%5D</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::HRule" x="455" y="647" w="624" h="-1" measuredW="100" measuredH="10" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::HRule" x="455" y="812" w="624" h="-1" measuredW="100" measuredH="10" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::StickyNote" x="124" y="56" w="235" h="187" measuredW="109" measuredH="123" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Rename%20News%20to%20Blog%3F%0A%20%0AAnd%3A%20Too%20much%20news%20if%20you%20ask%20me.%20On%20the%20other%20hand..%20you%20need%20so%20many%20pages%20just%20for%20news.%20Additional%20upcoming%20pages%3A%20News%20Detail%20View%20with%20comments%20and%20Add/Edit%20news.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

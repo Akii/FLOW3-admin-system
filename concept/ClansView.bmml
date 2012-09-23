@@ -309,10 +309,10 @@
                 <text>Jan.</text>
               </controlProperties>
             </control>
-            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="4" y="26" w="-1" h="-1" measuredW="62" measuredH="37" zOrder="3" locked="false" isInGroup="0">
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="13" y="28" w="-1" h="-1" measuredW="45" measuredH="37" zOrder="3" locked="false" isInGroup="0">
               <controlProperties>
                 <size>28</size>
-                <text>09th</text>
+                <text>9th</text>
               </controlProperties>
             </control>
           </groupChildrenDescriptors>
@@ -351,7 +351,7 @@
         <color>14540253</color>
       </controlProperties>
     </control>
-    <control controlID="77" controlTypeID="com.balsamiq.mockups::Arrow" x="330" y="321" w="78" h="32" measuredW="150" measuredH="100" zOrder="36" locked="false" isInGroup="-1">
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Arrow" x="322" y="321" w="78" h="32" measuredW="150" measuredH="100" zOrder="36" locked="false" isInGroup="-1">
       <controlProperties>
         <curvature>1</curvature>
         <direction>bottom</direction>

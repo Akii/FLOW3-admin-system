@@ -78,7 +78,7 @@
     <control controlID="17" controlTypeID="com.balsamiq.mockups::StickyNote" x="1221" y="602" w="184" h="161" measuredW="109" measuredH="123" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <color>7317724</color>
-        <text>Logs%0A-%20user%20logs%20%28failed%20logins%20etc%29%0A-%20user%20actions%0A-%20server%20logs</text>
+        <text>Logs%0A-%20-user%20logs%20%28failed%20logins%20etc%29-%0A-%20user%20actions%0A-%20server%20logs</text>
       </controlProperties>
     </control>
     <control controlID="18" controlTypeID="com.balsamiq.mockups::HCurly" x="1065" y="115" w="111" h="44" measuredW="200" measuredH="80" zOrder="16" locked="false" isInGroup="-1">
